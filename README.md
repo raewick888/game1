@@ -1,2 +1,3 @@
 # game
-need download raw documents to see output code from bolt. new
+need download raw file content document to see output code from bolt. new
+if you click three dots you can open the link
